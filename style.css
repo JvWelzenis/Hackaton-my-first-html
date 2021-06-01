@@ -1,0 +1,108 @@
+body {
+  background-image: url("img/Tsunami_by_hokusai_19th_century.jpg");
+  background-repeat: no-repeat;
+}
+
+ul.nav-bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #1f7596;
+  height: 50px;
+}
+
+li.nav-bar {
+  display: inline;
+  font-family: Montserrat, sans-serif;
+  font-size: 30px;
+  margin: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+li a:hover {
+  background-color: #006064;
+}
+
+a {
+  text-decoration: none;
+  color: #f5f5f5;
+  font-family: Montserrat, sans-serif;
+}
+
+.cirkel {
+  width: 250px;
+  height: 250px;
+  border-radius: 250px;
+  background-color: #1f7596;
+  float: right;
+  margin: 20px;
+}
+
+.drakenbootvaren {
+  font-family: Montserrat, sans-serif;
+  text-transform: uppercase;
+  color: #f5f5f5;
+  text-align: center;
+  margin-top: 40%;
+}
+
+.informatie {
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  width: 1000px;
+  height: 400px;
+  opacity: 0.6;
+}
+
+p {
+  font-family: Montserrat, sans-serif;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.img-drakenboot {
+  opacity: 0.9;
+  width: 1000px;
+  border-radius: 5px;
+}
+
+.doelgroep {
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  width: 1000px;
+  height: 600px;
+  opacity: 0.6;
+}
+
+.test {
+  font-family: Montserrat, sans-serif;
+  background-color: #1f7596;
+  text-transform: uppercase;
+  color: #f5f5f5;
+  text-align: center;
+  width: 100px;
+  height: 50px;
+  border-radius: 5px;
+  float: right;
+  margin: 30px;
+}
+
+.ver li {
+  font-family: Montserrat, sans-serif;
+  font-size: 25px;
+}
+
+h4 {
+  font-family: Montserrat, sans-serif;
+  font-size: 30px;
+}
+
+.verenigingen {
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  width: 1000px;
+  height: 600px;
+  opacity: 0.6;
+}
+
